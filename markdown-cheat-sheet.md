@@ -28,7 +28,8 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Ordered List
 
-1. First item
+1. First item  
+Use `two space` + `Enter` get a new line
 2. Second item
 3. Third item
 
